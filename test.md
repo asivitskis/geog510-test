@@ -22,4 +22,5 @@ testing **bold**
 ```
 import leafmap
 m = leafmap.Map()
+m.add_basemap("HYBRID")
 m
